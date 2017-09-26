@@ -2,7 +2,7 @@ Developer's Guide for AccountDemo:-
 
 	Get the project from github repository
 
-		-- URL to download project : https://github.com/acura/account-jax-demo.git
+		-- URL to download project : https://github.com/dipakkardel/jax_rs_account_demo.git
 
 	Import the project to IntelliJ IDE
 
