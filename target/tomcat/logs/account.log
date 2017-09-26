@@ -1,0 +1,4 @@
+2017-09-26 17:31:07 DEBUG AccountRestService:32 - Reteriving Account for Test-2
+2017-09-26 17:31:07 DEBUG AccountConversionUtils:21 - Converted DTO AccountDTO [id=Test-2, customerName=Test Account, currency=$, amount=101] to WS com.org.model.AccountWS@4c6700a
+2017-09-26 17:31:09 DEBUG AccountRestService:32 - Reteriving Account for Test-2
+2017-09-26 17:31:09 DEBUG AccountConversionUtils:21 - Converted DTO AccountDTO [id=Test-2, customerName=Test Account, currency=$, amount=101] to WS com.org.model.AccountWS@529339d5
